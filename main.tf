@@ -1,3 +1,5 @@
+# Build infrastructure and change the infrastructure , create resource dependencies ,Explore implicit and explicit dependencies , provision infrastructure
+
 terraform {
   required_providers {
     google = {
